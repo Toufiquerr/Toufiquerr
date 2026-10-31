@@ -36,7 +36,7 @@ Passionate about building scalable web platforms, high-performance Android appli
 ---
 
 ### 📊 GitHub Stats
-*(ইউজারনেম `Toufiquerr` এর জায়গায় আপনার আসল গিটহাব ইউজারনেম দিন)*
+*(`Toufiquerr`)*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Toufiq's GitHub Stats" />
